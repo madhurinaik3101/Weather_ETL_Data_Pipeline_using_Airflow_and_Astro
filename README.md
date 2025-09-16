@@ -12,13 +12,13 @@ It is an automated ETL (Extract, Transform, Load) pipeline that fetches daily we
 
 ## Technologies Used
 
-Apache Airflow: Orchestrates ETL workflows.
-Python: Core language for data processing.
-Open-Meteo API: Free weather data provider.
-PostgreSQL: Relational database for storing processed weather data.
-DBeaver: GUI tool to explore and query the PostgreSQL database.
-Docker: Containerizes the application for consistent development and deployment environments.
-Astronomer (Astro): Cloud-based orchestration platform for deploying Airflow pipelines.
+Apache Airflow: Orchestrates ETL workflows. <br>
+Python: Core language for data processing.<br>
+Open-Meteo API: Free weather data provider.<br>
+PostgreSQL: Relational database for storing processed weather data.<br>
+DBeaver: GUI tool to explore and query the PostgreSQL database.<br>
+Docker: Containerizes the application for consistent development and deployment environments.<br>
+Astronomer (Astro): Cloud-based orchestration platform for deploying Airflow pipelines.<br>
 
 ## Demo
 
