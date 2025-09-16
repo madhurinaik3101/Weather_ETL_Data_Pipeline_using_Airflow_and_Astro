@@ -22,8 +22,3 @@ Astronomer (Astro): Cloud-based orchestration platform for deploying Airflow pip
 
 ## Demo
 
-
-
-
-Full DEMO LINK: https://drive.google.com/file/d/1siQ2P_uqdoa5Lr88VpPpgrILFBgqYEwV/view?usp=drive_link
-
